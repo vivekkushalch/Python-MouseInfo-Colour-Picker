@@ -39,7 +39,7 @@ Example
 ---
 ![Example.png](Example.png) 
 
-
+>Original repo of **[MouseInfo](https://github.com/asweigart/mouseinfo)**
 
 License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 -------
