@@ -39,7 +39,15 @@ Example
 ---
 ![Example.png](Example.png) 
 
->Original repo of **[MouseInfo](https://github.com/asweigart/mouseinfo)**
+CREDITS
+=======
+@[asweigart](https://github.com/asweigart) Original repo of **[MouseInfo](https://github.com/asweigart/mouseinfo)**
+
+NOTE
+---
+I have not created MouseInfo instead I found it on Pypi and thought that its a great packedge which has use for 
+developers of different stream so I converted @[asweigart's](https://github.com/asweigart) [MouseInfo](https://github.com/asweigart/mouseinfo) Packegde to an `.exe` so that it can be used irrespective of the platform.
+Thus truly all the credit goes to  @[asweigart's](https://github.com/asweigart) for creating such an awesome python program;)
 
 License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 -------
